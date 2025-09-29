@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickyyyky&label=Profile%20views&color=0e75b6&style=flat" alt="vickyyyky" /> </p>
 
-- 🌱 I’m currently learning **Java Script, React, NodeJS etc**
+- 🌱 I’m currently learning **Development & React Native etc**
 
-- 💬 Ask me about **C, C++ , Java Script etc**
+- 💬 Ask me about **C, C++ , Java Script,React,NodeJS etc**
 
 - 📫 How to reach me **vk2388275@gmail.com**
 
