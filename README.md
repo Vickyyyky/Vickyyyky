@@ -97,11 +97,12 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 ### 📫 Connect With Me
 - 📧 Email: **vk2388275@gmail.com**
 - 💼 LinkedIn:  
-<a href="[https://linkedin.com/in/vicky-kumar-691a92222](https://www.linkedin.com/in/vicky-kumar-singh-691a92222/)" target="_blank">
+<a href="https://www.linkedin.com/in/vicky-kumar-singh-691a92222/" target="_blank">
   <img align="center"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-  height="30" width="40" />
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    height="30" width="40" />
 </a>
+
 
 ---
 
