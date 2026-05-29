@@ -75,7 +75,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 **Tools & Cloud**
 - Git, GitHub, Postman, VS Code  
-- AWS, Netlify, Render, Cloud Minister, GoDaddy
+- AWS, Netlify, Render, Window Server (IIS), GoDaddy
 
 ---
 
